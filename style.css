@@ -1,0 +1,13 @@
+.image {
+  max-height: 50%;
+  max-width: 50%;
+}
+body {
+  background-color: burlywood;
+}
+a {
+  display: inline;
+}
+.pipe {
+  display: inline;
+}
