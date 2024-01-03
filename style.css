@@ -2,7 +2,7 @@ body {
   background-color: burlywood;
 }
 a {
-  display: inline;
+  display: inline !important;
 }
 a:hover {
   background-color: cadetblue;
